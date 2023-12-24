@@ -1,0 +1,5 @@
+1. Navigate to Profit.com
+2. Sign up via Email
+3. Confirm Email (confirmation link will be sent to email)
+4. Sign in with the created account
+5. Record the process from Sign Up to Sign In and send the screen-recording back to us.
